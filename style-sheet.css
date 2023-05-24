@@ -1,0 +1,11 @@
+.intro {
+    color:red;
+    height: 90px;
+    font-size: 50%;
+}
+
+.image {
+    background: orange;
+    height: 100px;
+    /* width: 200px; */
+}
